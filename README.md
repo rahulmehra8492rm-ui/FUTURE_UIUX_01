@@ -17,4 +17,4 @@ Figma
 👉
 
 ## Preview
-Add key screens here
+https://www.figma.com/design/2Bf2X2gX9tgLeK8DTBIxni/Internship-Project-task-1?node-id=84-11134&t=KdoXsb3W2ayem28C-1
